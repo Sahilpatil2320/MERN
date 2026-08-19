@@ -1,4 +1,4 @@
-# MERN Stack Lab
+# MERN Stack 
 
 A collection of **MERN Stack lab practicals, experiments, and projects** developed while learning and practicing MongoDB, Express.js, React.js, and Node.js.
 
@@ -11,7 +11,10 @@ MERN/
 │   └── First React application
 │
 ├── resume/
-│   └── React-based resume website
+│   └── Resume using Functional Component
+│
+├── resume-class/
+│   └── Resume using Class Component
 │
 └── future-projects/
     └── More MERN practicals and projects
@@ -21,11 +24,15 @@ MERN/
 
 ### 1. First React Application
 
-A simple React application created using Create React App to understand the basics of React.
+A simple React application created to understand the basics of React and JSX.
 
 ### 2. React Resume
 
-A one-page responsive resume website built using React, HTML, and CSS.
+A one-page resume website built using React and CSS with a **Functional Component**.
+
+### 3. React Resume – Class Component
+
+The same resume application implemented using a **Class Component** to understand the difference between functional and class components in React.
 
 ## 🛠️ Technologies
 
@@ -39,7 +46,7 @@ A one-page responsive resume website built using React, HTML, and CSS.
 
 ## 🎯 Purpose
 
-This repository contains my **MERN Stack Lab work and projects**, including practical implementations, experiments, and applications developed during my learning journey.
+This repository contains my **MERN Stack Lab work**, including React practicals, experiments, and projects developed throughout my learning journey.
 
 ## 👨‍💻 Author
 
