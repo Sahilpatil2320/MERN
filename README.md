@@ -16,6 +16,9 @@ MERN/
 ├── resume-class/
 │   └── Resume using Class Component
 │
+├── mui-components/
+│   └── MUI Components demonstration
+│
 └── future-projects/
     └── More MERN practicals and projects
 ```
@@ -33,6 +36,10 @@ A one-page resume website built using React and CSS with a **Functional Componen
 ### 3. React Resume – Class Component
 
 The same resume application implemented using a **Class Component** to understand the difference between functional and class components in React.
+
+### 4. MUI Components
+
+A React application demonstrating various Material UI (MUI) components and their integration with React.
 
 ## 🛠️ Technologies
 
